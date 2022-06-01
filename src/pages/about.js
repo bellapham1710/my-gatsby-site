@@ -1,5 +1,6 @@
 // Step 1: Import React
 import * as React from 'react'
+import {Link} from 'gatsby'
 
 // Step 2: Define your component
 const AboutPage = () => {
@@ -8,6 +9,7 @@ const AboutPage = () => {
             <title>Bella Pham</title>
             <h1>About Me</h1>
             <p>Hi! My name is Bella Pham. I’m twenty-one years old. I’m an undergraduate junior major in Information Science from the University of South Carolina.</p>
+            <Link to ="/">Home</Link>
 
         </main>
     )
