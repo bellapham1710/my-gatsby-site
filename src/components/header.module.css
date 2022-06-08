@@ -1,8 +1,12 @@
 header{
-    height: 30vh;
+    height: 60vh;
     border-bottom: 1px, solid, #000;
     line-height: 1.4283;
     position: relative;
+    background-image: url("../images/owen-lystrup-boLgiM0qwkg-unsplash.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .hero-content {
     position: absolute;
@@ -30,4 +34,39 @@ header{
     font-size: .8em;
     text-transform: uppercase;
     letter-spacing: 1px;
+}
+header button {
+    padding-top: .25em;
+    padding-bottom: .25em;
+    padding-left: .35em;
+    padding-right: .35em;
+    margin-top: 1em;
+}
+.nav-container {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0,0,0,.8);
+}
+.nav-container ul {
+    margin: 0;
+    display: flex;
+    flex-flow: wrap;
+    justify-content: center;
+    padding: 0;
+    list-style: none;
+    color: rgba(255,255, 255,1);
+    text-transform: uppercase;
+    font-family: 'Montserrat', san-serif;
+    font-size: 1em;
+}
+.nav-container li {
+    background: none;
+    letter-spacing: .075em;
+    text-decoration: none;
+    padding: 5px 14px 5px 14px ;
+}
+.nav-container a, .nav-container a:visited {
+    color: rgba(255,255, 255,1);
 }

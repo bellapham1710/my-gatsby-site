@@ -1,22 +1,12 @@
 import * as React from 'react'
-import {Link} from 'gatsby'
+import {container, siteFooter} from "./footer.module.css"
 
 const Footer = () => {
     return (
-        <footer>
-        <div>
-            <h1><Link to='/'>Bella Pham</Link></h1>
-            <h3>Cybersecurity & Information Design</h3>
-            <button onClick={() => triggerNavigation()}>Learn More</button>
-        </div>
-        <nav>
-            <ul>
-                <li><Link to="/">Home</Link></li>
-                <li><Link to="/about">About</Link></li>
-                <li><Link to="/contact">Contact</Link></li>
-                <li><Link to="/blog">Blog</Link></li>
-            </ul>
-        </nav>
+        <footer className={siteFooter}>
+            <div className={container}>
+                <p>Site developed by Bella Pham &copy; {new Date().getFullYear().toString()}{" "}</p>
+            </div>
         </footer>
     )
 }
