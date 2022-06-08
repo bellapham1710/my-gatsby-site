@@ -1,6 +1,9 @@
 import * as React from 'react'
 import {Link} from 'gatsby'
 import { navigate } from 'gatsby'
+import { header,
+        heroContent,
+        siteTitle } from "./header.module.css"
 
 const Header = () => {
     const triggerNavigation =() => {
@@ -8,8 +11,8 @@ const Header = () => {
     }
     return (
         <header>
-        <div>
-            <h1><Link to='/'>Bella Pham</Link></h1>
+        <div className={heroContent}>
+            <h1 className={sitetitle}><Link to='/'>Bella Pham</Link></h1>
             <h3>Cybersecurity & Information Design</h3>
             <button onClick={() => triggerNavigation()}>Learn More</button>
         </div>
