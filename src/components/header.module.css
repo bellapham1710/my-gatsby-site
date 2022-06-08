@@ -1,4 +1,14 @@
 header{
     height: 30vh;
     border-bottom: 1px, solid, #000;
+    line-height: 1.4283;
+    position: relative;
+}
+.hero-content {
+    position: absolute;
+    top: 35%;
+    margin: 0;
+    width: 40%;
+    right: 30%;
+    border: 1px solid rgba(0,0,0,1);
 }
