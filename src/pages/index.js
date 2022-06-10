@@ -12,7 +12,7 @@ const IndexPage =() => {
     <main>
       <title>My Personal Portfolio</title>
       <h1>Welcome to my website.</h1>
-      <p>This is my homepage.</p>
+      <p>This is my homepage.ssss</p>
       <Link to ="/about">About</Link>
     </main>
     </Layout>
