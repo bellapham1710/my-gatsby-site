@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `My Gatsby Site`,
-    siteUrl: `https://mygatsbysitemain41901.gatsbyjs.io/`,
+    siteUrl: `https://mygatsbysitemain33489.gatsbyjs.io/`,
     title: "Bella Pham", 
     description: "Cybersecurity and Information Design",
     author: "Bella Pham"

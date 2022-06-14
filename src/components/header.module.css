@@ -1,5 +1,5 @@
 header{
-    height: 60vh;
+    height: 100vh;
     border-bottom: 1px, solid, #000;
     line-height: 1.4283;
     position: relative;
@@ -12,8 +12,8 @@ header{
     position: absolute;
     top: 35%;
     margin: 0;
-    width: 40%;
-    right: 30%;
+    width: 42%;
+    right: 20%;
     border: 1px solid rgba(0,0,0,1);
     text-align: center;
     padding: 1em;
@@ -21,7 +21,7 @@ header{
 }
 .site-title {
     font-family: "Julius Sans One", sans-serif;
-    font-weight: 200;
+    font-weight: 300;
     font-size: 2.75em;
 }
 .site-title a, .site-title a:hover, .site-title a:visited {
