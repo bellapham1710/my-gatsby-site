@@ -4,7 +4,7 @@ import Layout from "../components/layout"
 import {Link} from 'gatsby'
 
 // Step 2: Define your component
-const AboutPage = () => {
+const ContactPage = () => {
     return (
         <main>
             <Layout>
