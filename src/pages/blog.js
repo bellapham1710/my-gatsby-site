@@ -8,7 +8,7 @@ const BlogPage = () => {
     return (
         <main>
             <Layout>
-            <title>Bella Pham</title>
+            <title>Bella Pham's Blog page</title>
             <h1>About Me</h1>
             <p>Blog.</p>
             <Link to ="/">Back to Home</Link>
