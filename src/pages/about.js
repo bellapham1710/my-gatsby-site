@@ -10,7 +10,7 @@ const AboutPage = () => {
             <Layout>
             <title>Bella Pham</title>
             <h1>About Me</h1>
-            <p>Hi! My name is Bella Pham. I’m twenty-one years old. I’m an undergraduate junior major in Information Science from the University of South Carolina.</p>
+            <p>Hi! My name is Bella Pham. I’m twenty-one years old. I’m an undergraduate junior major in Information Science from the University of South Carolina. Hello</p>
             <Link to ="/">Back to Home</Link>
             </Layout>
         </main>
