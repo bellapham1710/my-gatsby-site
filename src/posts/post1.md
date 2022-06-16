@@ -1,6 +1,6 @@
 ---
 title: "Asia"
-date: "2022-06-14"
+date: "20 May, 2022"
 ---
 
 ## Bulletin Description

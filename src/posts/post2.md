@@ -1,6 +1,6 @@
 ---
 title: "North America"
-date: "06-14-2022"
+date: "20 May, 2022"
 ---
 
 ## Detail

@@ -40,5 +40,6 @@ module.exports = {
         display: 'swap',
       },
     },
+    "gatsby-transformer-remark",
   ],
 }
