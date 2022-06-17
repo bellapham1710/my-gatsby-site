@@ -3,10 +3,11 @@ title: "Asia"
 date: "20 May, 2022"
 ---
 
-## Bulletin Description
+### Bulletin Description
 
 Input text
 
-## Outcomes
-
-Input Text
+### Outcomes
+1. ksdfcbxc
+2. dshkacbfs
+3. sdfkhds
