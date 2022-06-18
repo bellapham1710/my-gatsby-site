@@ -4,7 +4,7 @@ import Layout from "../components/layout"
 import {Link} from 'gatsby'
 
 // Step 2: Define your component
-const SingaporePage = () => {
+const SeoulPage = () => {
     return (
         <main>
             <Layout>
@@ -18,4 +18,4 @@ const SingaporePage = () => {
     )
 }
 // Step 3: Export your component
-export default SingaporePage
+export default SeoulPage
