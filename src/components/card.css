@@ -1,5 +1,5 @@
 .card {
-    width: 300px;
+    width: 220px;
     height: 141px;
     position: relative;
     overflow: hidden;
@@ -19,6 +19,8 @@
 .card img {
     position: absolute;
     top:0;
+    right: 0;
+    left: 0;
     height: 110%;
     z-index: -1;
     transition: 0.8s cubic-bezier(0.2, 0.8, 0.2, 1);

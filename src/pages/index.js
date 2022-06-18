@@ -26,7 +26,7 @@ const IndexPage =() => {
      
         <Card 
           title="Web Site Designs"
-          text="Secure website designed with Gatsby.js and React."
+          text="Helloooooooo."
           image={require('../images/homepage.webp').default}
 
         />

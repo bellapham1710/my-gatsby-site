@@ -1,7 +1,8 @@
 ---
-title: "Asia"
+title: "Singapore"
 date: "20 May, 2022"
 ---
+![Singapore](../images/singaporemarina.webp)
 
 ### Bulletin Description
 
