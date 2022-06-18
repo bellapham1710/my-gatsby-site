@@ -1,0 +1,18 @@
+
+.quoteFont{
+    font-family: 'Architects Daughter', cursive;
+    font-size: 2em;
+}
+.quoteAuthor {
+    font-family: 'Architects Daughter', cursive;
+    font-size: 1em;
+    font-style: italic;
+    margin-left: 14em;
+    margin-top: .75em;
+}
+.cardGroup {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 100%;
+}

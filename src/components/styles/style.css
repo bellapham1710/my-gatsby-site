@@ -3,8 +3,11 @@
     padding: 0;
     box-sizing: border-box;
 }
+body {
+    font-family:  "Segoe UI", Roboto, Verdana, "Helvetica Neue", sans-serif;
+}
 html {
-    font-family: sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu;
     font-size: 1em;
 }
 a {
@@ -16,4 +19,11 @@ a:hover {
 }
 a:visited {
     color: rgba(125, 128, 112, 1)
+}
+.cardGroup {
+    margin: 50px 50px 100px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 40px;
+    justify-items: center ;
 }
