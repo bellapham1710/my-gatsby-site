@@ -33,7 +33,7 @@ const IndexPage =() => {
         />
         </Link>
 
-        <Link to ="/contact">
+        <Link to ="/seoul">
         <Card 
           title="Seoul, S.Korea"
           text="Asia's most popular tourist destinations as a result of the Korean Wave"
