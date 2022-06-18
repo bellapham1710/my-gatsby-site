@@ -1,6 +1,6 @@
 .site-footer {
     color: rbga(255,255,255,1);
-    background-color: rgb(249, 205, 242);
+    background-color: rgba(251, 213, 232, 0.8);
 }
 .container {
     margin: 0 auto;

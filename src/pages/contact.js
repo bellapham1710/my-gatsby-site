@@ -9,9 +9,10 @@ const ContactPage = () => {
         <main>
             <Layout>
             <title>Contact Me</title>
-            <h1>This is my contact information</h1>
+            <h2>Thanks for your interest in Bella Pham's Travel Blog.</h2>
             <Link to ="/">Back to Home</Link>
             </Layout>
+            
         </main>
     )
 }

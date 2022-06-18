@@ -15,36 +15,37 @@ const IndexPage =() => {
     <main>
       <title>Bella Pham</title>
       <div >
-        <h2 >"There is nothing worse than a sharp image of a fuzzy concept"</h2>
-        <p >--Ansel Adams--</p>
+        <h2 >“The use of traveling is to regulate imagination with reality, and instead of thinking of how things may be, see them as they are.”</h2>
+        <p >--Samuel Johnson--</p>
         </div>
       <h1 className={blogTitle}>Welcome, how can I help you today?</h1>
+      <h3> Here are my recent travels.</h3>
 
 
       <div className="cardGroup">
-        <Link to ="/about">
+        <Link to ="/singapore">
      
         <Card 
-          title="Web Site Designs"
-          text="Helloooooooo."
-          image={require('../images/homepage.webp').default}
+          title="Singapore"
+          text="also known as The Lion City, is one of the most developed country in Asia"
+          image={require('../images/singaporemarina.webp').default}
 
         />
         </Link>
 
         <Link to ="/contact">
         <Card 
-          title="Cybersecurity"
-          text="Protect your websites and data."
-          image={require('../images/minivan.jpg').default}
+          title="Seoul, S.Korea"
+          text="Asia's most popular tourist destinations as a result of the Korean Wave"
+          image={require('../images/cherryblossom.webp').default}
 
         />
         </Link>
       
         <Link to ="/hoian">
         <Card 
-          title="Hoi An"
-          text="The acient city of lanterns."
+          title="Hoi An, VN"
+          text="The ancient town of lanterns, ready to get lost in the Old Town"
           image={require('../images/hoian.jpg').default}
 
         />
