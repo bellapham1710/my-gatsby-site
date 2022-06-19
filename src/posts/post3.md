@@ -3,7 +3,7 @@ title: "Bangkok, Thailand"
 date: "20 May, 2022"
 ---
 
-![Hanoi](../images/hanoinightlife.jpeg)
+![Bangkok](../images/bangkok.jpeg)
 
 ## Detail
 Bangkok is one of those cities that never gets old. No matter how many times you’ve been, you’ll always discover something new and exciting to see, do, and eat.
@@ -13,6 +13,5 @@ It’s got a near perfect mix of food, culture, nightlife, shopping, and afforda
 
 
 ## Outcomes
-Input text
-1. affds
-2. dsfkbdf
+1. Street food
+2. Siam Paragon

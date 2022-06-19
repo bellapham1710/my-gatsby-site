@@ -61,12 +61,48 @@ const ShopPage = () => {
           With so many gadgets, keeping your devices charged while traveling can be a hassle, and there are numerous instances where a low or dead battery can be a huge annoyance. On almost every journey, a power bank should be a must-have.
         </p>
       </div>
+
+      <MyLink      
+          image={require('../images/powercube.jpg').default}
+        />
+      <div class={shoplink}>
+        <a
+          href="https://www.amazon.com/gp/product/B00IPNH4LC/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=willflyforf0f-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00IPNH4LC&linkId=6959599b97d2b8148b63da847a175728&th=1"
+          >Power Strip with 4 outlets, 2 usb ports, 5 feet cable </a
+        >
+        <p>
+        Many hotels only have one or two outlets. I've had to stay up late a few times just to plug in the last charger. This PowerCube is little but powerful, with four outlets and two USB ports.
+        </p>
+      </div>
       <h2 className={sectionTitle}>Carry-on</h2>
       
       <p>
         These items are must-have for your flight.
       </p>
-
+      <MyLink      
+          image={require('../images/carryon.jpg').default}
+        />
+      <div class={shoplink}>
+        <a
+          href="https://www.amazon.com/dp/B08FRLL4DH/ref=twister_B085RTH42L?_encoding=UTF8&th=1"
+          >Samsonite Carry-on 21-inch </a
+        >
+        <p>
+        There are certain things that you cannot put in your check-in luggage, carry-on is where you can store all those things. Also, you also want to keep your valuable belongings, laptop, and gears here.
+        </p>
+      </div>
+      <MyLink      
+          image={require('../images/neckpillow.jpg').default}
+        />
+      <div class={shoplink}>
+        <a
+          href="https://www.amazon.com/Worlds-Best-Feather-Microfiber-Charcoal/dp/B00DZKQLZ0/ref=sr_1_5?crid=1Q5HEFSVYINJ8&keywords=neck%2Bpillow%2Bfor%2Btravel&qid=1650845826&sprefix=neck%2Bpillow%2Bfor%2Btravel%2Caps%2C131&sr=8-5&th=1"
+          >Neck Pillow </a
+        >
+        <p>
+        For economy people out there like me, investing in an excellent one is a good idea. This will allow you to properly relax your neck, get a decent night's sleep, and have a nice start to your vacation. A decent travel cushion is also firm enough to provide adequate support without being excessively cumbersome.
+        </p>
+      </div>
     
             <Link to ="/">Back to Home</Link>
             </Layout>

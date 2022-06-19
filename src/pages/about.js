@@ -10,8 +10,8 @@ const AboutPage = () => {
             <Layout>
             <title>Bella Pham</title>
             <h1>About Me</h1>
-            <p>Hi! My name is Bella Pham. I’m twenty-one years old. I’m an undergraduate junior major in Information Science from the University of South Carolina. My passion is learning about life through travelling and exploring new things. Traveling is an extraordinary experience every person needs to try. It reveals a whole new and exciting world out there, opens out your inner strength, and presents with unforgettable adventures.</p>
-            <p>I was</p>
+            <p>Hi! My name is Bella Pham. I’m twenty-one years old. I’m an undergraduate junior major in Information Science from the University of South Carolina. I was born and raised in Saigon, Vietnam. I have been living in the United States of America since 2018, to pursue my higher education. </p>
+            <p>My passion is learning about life through travelling and exploring new things. Traveling is an extraordinary experience every person needs to try. It reveals a whole new and exciting world out there, opens out your inner strength, and presents with unforgettable adventures.</p>
             <Link to ="/">Back to Home</Link>
             </Layout>
         </main>
