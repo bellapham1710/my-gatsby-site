@@ -2,6 +2,7 @@
 .quoteFont{
     font-family: 'Architects Daughter', cursive;
     font-size: 2em;
+    color: rgba(252, 181, 218, 0.8);
 }
 .quoteAuthor {
     font-family: 'Architects Daughter', cursive;

@@ -31,7 +31,7 @@ const BlogPage = () => {
         <Layout>
         <main>          
             <title>Bella Pham's Blog page</title>
-            <h1 className={sectionTitle}>This is the Blog Page</h1>
+            <h1 className={sectionTitle}>This is my Travel Blog Page</h1>
             <ul>
                 {data.allMarkdownRemark.edges.map(edge =>{
                     return (
