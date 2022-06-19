@@ -10,6 +10,8 @@ const ContactPage = () => {
             <Layout>
             <title>Contact Me</title>
             <h2>Thanks for your interest in Bella Pham's Travel Blog.</h2>
+            <p>Please use the form below to send me a message. Don't be a stranger!</p>
+
             <Link to ="/">Back to Home</Link>
             </Layout>
             
