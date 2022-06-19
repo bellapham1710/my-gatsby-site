@@ -53,3 +53,6 @@ input[type=submit] {
     margin-bottom: 16px; 
     resize: vertical;
   }
+p {
+    margin-left: 20px;
+}
