@@ -1,0 +1,20 @@
+.mylink {
+    width: 230px;
+    height: 141px;
+    position: relative;
+    overflow: hidden;
+    margin-left: 100px;
+    box-shadow: 0 20px 40px rgba(0,0,0,.25);
+    transition: 0.8s cubic-bezier(0.2, 0.8, 0.2, 1);
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+}
+.mylink img {
+    position: absolute;
+    top:0;
+    right: 0;
+    left: 0;
+    height: 110%;
+    z-index: -1;
+    transition: 0.8s cubic-bezier(0.2, 0.8, 0.2, 1);
+}

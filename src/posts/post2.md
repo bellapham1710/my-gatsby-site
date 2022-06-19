@@ -3,6 +3,8 @@ title: "Bali, Indonesia"
 date: "20 May, 2022"
 ---
 
+![Hanoi](../images/hanoinightlife.jpeg)
+
 ## Detail
 Going to Bali feels like embarking on an endless adventure–there is something for everyone!
 

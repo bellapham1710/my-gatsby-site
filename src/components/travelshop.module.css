@@ -1,6 +1,14 @@
 .shopTitle {
     color: rgba(252, 181, 218, 0.8);
+    margin-left: 25%;
+    margin-right: 23%;
 }
 ul {
-    margin-left: 100;
+    margin-left: 50px;
+}
+.shoplink {
+    margin-top: 10%;
+}
+.sectionTitle {
+    color: rgba(252, 181, 218, 0.8);;
 }
