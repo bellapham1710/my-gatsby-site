@@ -9,7 +9,7 @@ const HoiAnPage = () => {
         <main>
             <Layout>
             <title>Hoi An - Vietnam</title>
-            <h1>The city of lanterns</h1>
+            <h1>The city of lanterns.</h1>
             <p>Among all the cities I’ve visited in my homecountry Vietnam, Hoi An made the best first impression. There are a lot to do in the Ancient Town.
                 Unlike Hanoi or Ho Chi Minh City, Hoi An is small and provincial in feel. It’s a UNESCO World Heritage Site that provides a fascinating glimpse into what port life was like in 18th century Vietnam.
                 Walk around the Ancient Town and you’ll find a well-preserved labyrinth of shophouses and pagodas with paper lanterns zigzagging from building to building. It’s lovely at any time of the day but at night, it turns into something magical.
